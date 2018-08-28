@@ -6,4 +6,8 @@ The csv has five columns: District, School, Grade, Year and Value. The last is o
 There are gaps in the Grade column and thus the Value column, incidated by "NA"
 The usual caveat: This is state data, I had to do a lot to clean it even aside from the scraping, etc. Caveat emptor.
 
+You can view the data as an interactive table by clicking on the link, or you can download it by pasting this into your browser:
+https://github.com/JohnRRoby/schoolGrades/blob/master/schoolGrades.csv?raw=true
+then right click in the browser and choose "save as."
+
 Original data source is here: http://aae.ped.state.nm.us/ 
